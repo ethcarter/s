@@ -1,0 +1,36 @@
+[16:40:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-LTS; Microsoft Microsoft-12574458) on Linux 6.8.0-1030-azure (amd64)
+[16:40:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[16:40:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:40:58] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[16:41:06] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 7425ms.
+[16:41:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SimpleTpa.jar'...
+[16:41:06] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/GSit-3.0.1.jar'...
+[16:41:06] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/PluginPortal-2.2.2.jar'...
+[16:41:06] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/UltimateHomes-3.1.jar'...
+[16:41:06] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/UltimateHomes-3.1.jar' in 315ms.
+[16:41:06] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/LagFixer.jar'...
+[16:41:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SimpleTpa.jar' in 333ms.
+[16:41:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/paper-1.21.10-117.jar'...
+[16:41:07] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/GSit-3.0.1.jar' in 919ms.
+[16:41:08] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/LagFixer.jar' in 1452ms.
+[16:41:08] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/PluginPortal-2.2.2.jar' in 2560ms.
+[16:41:09] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/paper-1.21.10-117.jar' in 3250ms.
+[16:41:09] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: plugins/.paper-remapped/paper-1.21.10-117.jar appears to be a server jar! Server jars do not belong in the plugin folder.
+java.lang.RuntimeException: java.lang.IllegalArgumentException: plugins/.paper-remapped/paper-1.21.10-117.jar appears to be a server jar! Server jars do not belong in the plugin folder.
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:81) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at net.minecraft.server.Main.main(Main.java:110) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.10.jar:1.21.10-117-df4b668]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: plugins/.paper-remapped/paper-1.21.10-117.jar appears to be a server jar! Server jars do not belong in the plugin folder.
+	... 10 more
+[16:41:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[16:41:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - Chunky (1.4.40), GSit (3.0.1), LagFixer (1.5.1.6 [build 137]), LuckPerms (5.5.17), PluginPortal (3.0.7), SimpleTpa (8.0), UltimateHomes (3.1)
+[16:41:16] [ServerMain/WARN]: Failed to load eula.txt
+[16:41:16] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
