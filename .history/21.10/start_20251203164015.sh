@@ -1,1 +1,0 @@
-java  -jar -Xms2G -Xmx12G ./server.jar -nogui 
