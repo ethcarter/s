@@ -141,3 +141,188 @@ LagFixer - Best Performance Solution!
 [18:24:11] [Server thread/INFO]: Done (18.705s)! For help, type "help"
 [18:24:11] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [18:24:11] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[18:25:11] [Folia Async Scheduler Thread #2/INFO]: [[38;5;11m⚡[0m] 
+∘₊✧────────────────────────────────✧₊∘
+LagFixer needs an update!
+Version: 1.5.1.6 -> 1.5.1.7
+https://modrinth.com/plugin/lagfixer/version/1.5.1.7
+
+⚠ Updating this plugin is crucial! ⚠
+∘₊✧────────────────────────────────✧₊∘
+[18:25:57] [User Authenticator #0/INFO]: UUID of player error_macro is 7252341a-12a7-3e19-bdcf-cc80bc6c6b75
+[18:25:57] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[18:25:59] [Server thread/INFO]: error_macro joined the game
+[18:25:59] [Server thread/INFO]: error_macro[/127.226.33.211:34057] logged in with entity id 1 at ([world]257.5, 79.0, 355.5)
+[18:26:56] [Server thread/INFO]: Made error_macro a server operator
+[18:27:05] [Server thread/INFO]: error_macro issued server command: /gamemode c
+[18:27:10] [Server thread/INFO]: error_macro issued server command: /ga
+[18:27:19] [Server thread/INFO]: error_macro issued server command: /gamemode creative
+[18:27:19] [Server thread/INFO]: [error_macro: Set own game mode to Creative Mode]
+[18:27:32] [Server thread/INFO]: [Not Secure] [Server] Hello nga
+[18:27:40] [Async Chat Thread - #1/INFO]: [Not Secure] <error_macro> yo
+[18:28:14] [User Authenticator #1/INFO]: UUID of player NazEthan is 8e1ecd32-236d-39c3-b21b-a1dc7e2bf6f2
+[18:28:16] [Server thread/INFO]: NazEthan joined the game
+[18:28:16] [Server thread/INFO]: NazEthan[/127.1.145.251:37511] logged in with entity id 609 at ([world]-2149.6141215664697, 77.91319292067388, 1884.9374305465471)
+[18:28:28] [Server thread/INFO]: error_macro issued server command: /gamemode survival
+[18:28:28] [Server thread/INFO]: [error_macro: Set own game mode to Survival Mode]
+[18:28:32] [Async Chat Thread - #1/INFO]: [Not Secure] <NazEthan> yo
+[18:28:32] [Server thread/INFO]: error_macro issued server command: /gamemode creative
+[18:28:32] [Server thread/INFO]: [error_macro: Set own game mode to Creative Mode]
+[18:28:35] [Server thread/INFO]: error_macro issued server command: /gamemode survival
+[18:28:35] [Server thread/INFO]: [error_macro: Set own game mode to Survival Mode]
+[18:28:36] [Server thread/INFO]: error_macro issued server command: /gamemode creative
+[18:28:36] [Server thread/INFO]: [error_macro: Set own game mode to Creative Mode]
+[18:28:59] [Server thread/INFO]: NazEthan issued server command: /tp error_macro
+[18:28:59] [Server thread/INFO]: [NazEthan: Teleported NazEthan to error_macro]
+[18:29:15] [Server thread/INFO]: NazEthan issued server command: /clear
+[18:29:15] [Server thread/INFO]: [NazEthan: Removed 34 item(s) from player NazEthan]
+[18:29:24] [Server thread/INFO]: NazEthan issued server command: /tps
+[18:31:28] [Server thread/INFO]: NazEthan issued server command: /tps
+[18:33:11] [Async Chat Thread - #2/INFO]: [Not Secure] <NazEthan> mo net chudi jaichi
+[18:33:17] [Server thread/INFO]: NazEthan issued server command: /clear
+[18:33:17] [Server thread/INFO]: [NazEthan: Removed 44 item(s) from player NazEthan]
+[18:33:25] [Server thread/INFO]: NazEthan issued server command: /tps
+[18:33:39] [Async Chat Thread - #2/INFO]: [Not Secure] <NazEthan> surv kariba ki?
+[18:34:03] [Server thread/INFO]: NazEthan issued server command: /time set day
+[18:34:03] [Server thread/INFO]: [NazEthan: Set the time to 1000]
+[18:34:11] [Server thread/INFO]: NazEthan issued server command: /weather clear
+[18:34:11] [Server thread/INFO]: [NazEthan: Set the weather to clear]
+[18:34:18] [Server thread/INFO]: NazEthan issued server command: /gamemode survival @a
+[18:34:18] [Server thread/INFO]: [NazEthan: Set error_macro's game mode to Survival Mode]
+[18:34:18] [Server thread/INFO]: [NazEthan: Set own game mode to Survival Mode]
+[18:34:21] [Server thread/INFO]: error_macro was slain by NazEthan
+[18:34:31] [Server thread/INFO]: NazEthan issued server command: /effect clear
+[18:34:31] [Server thread/INFO]: [NazEthan: Removed every effect from NazEthan]
+[18:34:44] [Server thread/INFO]: NazEthan issued server command: /deop AVisION
+[18:34:44] [Server thread/INFO]: [NazEthan: Made AVisION no longer a server operator]
+[18:34:49] [Server thread/INFO]: NazEthan issued server command: /deop error_macro
+[18:34:49] [Server thread/INFO]: [NazEthan: Made error_macro no longer a server operator]
+[18:34:52] [Server thread/INFO]: NazEthan issued server command: /deop KrabbyPatties11
+[18:34:52] [Server thread/INFO]: [NazEthan: Made KrabbyPatties11 no longer a server operator]
+[18:35:00] [Server thread/INFO]: NazEthan issued server command: /tpahere error_macro
+[18:35:06] [Async Chat Thread - #4/INFO]: [Not Secure] <NazEthan> open chat
+[18:35:11] [Server thread/INFO]: error_macro issued server command: /tpa
+[18:35:20] [Async Chat Thread - #4/INFO]: [Not Secure] <NazEthan> accet and stay still
+[18:35:22] [Server thread/INFO]: error_macro issued server command: /tpaccept
+[18:36:01] [Async Chat Thread - #4/INFO]: [Not Secure] <NazEthan> if u know java... can make minecraft
+[18:38:16] [Server thread/INFO]: error_macro has made the advancement [Stone Age]
+[18:38:45] [Async Chat Thread - #6/INFO]: [Not Secure] <NazEthan> saumit nga?
+[18:39:43] [Server thread/INFO]: error_macro has made the advancement [Getting an Upgrade]
+[18:40:18] [Async Chat Thread - #8/INFO]: [Not Secure] <NazEthan> xD
+[18:40:26] [Async Chat Thread - #8/INFO]: [Not Secure] <NazEthan> lilly
+[18:44:49] [Server thread/INFO]: error_macro lost connection: Disconnected
+[18:44:49] [Server thread/INFO]: error_macro left the game
+[18:45:22] [Server thread/INFO]: NazEthan lost connection: Timed out
+[18:45:23] [Server thread/INFO]: NazEthan left the game
+[18:46:09] [User Authenticator #2/INFO]: UUID of player error_macro is 7252341a-12a7-3e19-bdcf-cc80bc6c6b75
+[18:46:09] [Server thread/INFO]: error_macro joined the game
+[18:46:09] [Server thread/INFO]: error_macro[/127.226.33.211:36903] logged in with entity id 4592 at ([world]514.8190121826541, 77.0, 265.04861868579223)
+[18:46:43] [User Authenticator #2/INFO]: UUID of player NazEthan is 8e1ecd32-236d-39c3-b21b-a1dc7e2bf6f2
+[18:46:45] [Server thread/INFO]: error_macro lost connection: Disconnected
+[18:46:45] [Server thread/INFO]: error_macro left the game
+[18:46:46] [Server thread/INFO]: NazEthan joined the game
+[18:46:46] [Server thread/INFO]: NazEthan[/127.1.145.251:44723] logged in with entity id 4886 at ([world]526.9026705419318, 78.0, 284.6484243784541)
+[18:46:59] [Server thread/INFO]: NazEthan issued server command: /gamemode creative
+[18:46:59] [Server thread/INFO]: [NazEthan: Set own game mode to Creative Mode]
+[18:47:05] [Server thread/INFO]: NazEthan issued server command: /tps
+[18:47:51] [Server thread/INFO]: NazEthan has made the advancement [Acquire Hardware]
+[18:49:09] [Server thread/INFO]: NazEthan issued server command: /gamemode survival
+[18:49:09] [Server thread/INFO]: [NazEthan: Set own game mode to Survival Mode]
+[18:50:22] [Server thread/INFO]: NazEthan issued server command: /give @s minecraft:cooked_chicken 80
+[18:50:22] [Server thread/INFO]: [NazEthan: Gave 80 [Cooked Chicken] to NazEthan]
+[18:50:32] [Server thread/INFO]: NazEthan issued server command: /gamerule keepInventory true
+[18:50:32] [Server thread/INFO]: [NazEthan: Gamerule keepInventory is now set to: true]
+[18:52:07] [Server thread/INFO]: NazEthan issued server command: /gamerule mobGriefing false
+[18:52:07] [Server thread/INFO]: [NazEthan: Gamerule mobGriefing is now set to: false]
+[18:54:39] [Server thread/INFO]: NazEthan issued server command: /tps
+[18:55:11] [Folia Async Scheduler Thread #2/INFO]: [[38;5;11m⚡[0m] 
+∘₊✧────────────────────────────────✧₊∘
+LagFixer needs an update!
+Version: 1.5.1.6 -> 1.5.1.7
+https://modrinth.com/plugin/lagfixer/version/1.5.1.7
+
+⚠ Updating this plugin is crucial! ⚠
+∘₊✧────────────────────────────────✧₊∘
+[18:56:00] [Server thread/INFO]: NazEthan has made the advancement [Isn't It Iron Pick]
+[18:59:22] [Server thread/INFO]: NazEthan has made the advancement [Suit Up]
+[19:00:33] [Server thread/INFO]: [NazEthan: Set own game mode to Creative Mode]
+[19:04:20] [Server thread/INFO]: NazEthan issued server command: /clear
+[19:04:20] [Server thread/INFO]: [NazEthan: Removed 339 item(s) from player NazEthan]
+[19:09:15] [Server thread/INFO]: NazEthan issued server command: /time set day
+[19:09:15] [Server thread/INFO]: [NazEthan: Set the time to 1000]
+[19:23:56] [Server thread/INFO]: NazEthan issued server command: /stop
+[19:23:56] [Server thread/INFO]: [NazEthan: Stopping the server]
+[19:23:56] [Server thread/INFO]: Stopping server
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.5.1.6 [build 137]
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 2ms!
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 0ms!
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module RedstoneLimiter in 1ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module InstantLeafDecay in 0ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module WorldCleaner in 0ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module LagShield in 0ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module ExplosionOptimizer in 1ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module MobAiReducer in 0ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module EntityLimiter in 0ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module AbilityLimiter in 0ms.
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 4ms!
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[19:23:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 1ms!
+[19:23:56] [Server thread/INFO]: [PluginPortal] Disabling PluginPortal v3.0.7
+[19:23:56] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.5.2-SNAPSHOT
+[19:23:56] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[19:23:56] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
+[19:23:56] [Server thread/INFO]: [GSit] Disabling GSit v3.0.1
+[19:23:56] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[19:23:56] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v8.0
+[19:23:56] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[19:23:56] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 8.0
+[19:23:56] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.17
+[19:23:56] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:23:56] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:23:56] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:23:56] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.2-SNAPSHOT
+[19:23:56] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:23:56] [Server thread/INFO]: Saving players
+[19:23:56] [Server thread/INFO]: NazEthan lost connection: Server closed
+[19:23:56] [Server thread/INFO]: NazEthan left the game
+[19:23:56] [Server thread/INFO]: Saving worlds
+[19:23:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 147 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[19:23:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[19:23:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[19:23:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[19:23:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:23:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:23:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:23:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:23:56] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[19:23:56] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[19:23:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[19:23:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
